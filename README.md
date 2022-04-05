@@ -3,3 +3,4 @@ This project provided an efficient Unet network to detect damaged lung tissues. 
 
 ![My Image](CT_CHEST.png)
 ![My Image](CT_predicted.png)
+![My Image](ct_masked.png)
