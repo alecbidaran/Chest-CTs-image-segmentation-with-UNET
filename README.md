@@ -2,5 +2,5 @@
 This project provided an efficient Unet network to detect damaged lung tissues. The proposed network is implemented with the PyTorch framework and trained with the Adam optimizer function over 20 epochs. The segmentation results are illustrated below.
 
 ![My Image](CT_CHEST.png)
-![My Image](CT_predicted.png)
-![My Image](ct_masked.png)
+![My Image](chest_ct1.png)
+![My Image](chest_ct2.png)
